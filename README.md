@@ -1,5 +1,3 @@
-### GitHub Repository Description
-
 **App Recommendation Books**
 
 
