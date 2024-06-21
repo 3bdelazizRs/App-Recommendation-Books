@@ -6,14 +6,35 @@
 
 App Recommendation Books is an innovative application developed using Flutter, Python, Flask, and Laravel to provide personalized book recommendations from your chosen selection. By analyzing your reading preferences, the app suggests books tailored to your tastes. Leveraging machine learning, the recommendations become increasingly accurate over time, adapting to your evolving reading habits and preferences. The intuitive interface, built with Flutter, ensures a smooth and enjoyable user experience, making it easy to discover new books.
 
-**Key Features:**
+## Key Features:
 
 - **Personalized Recommendations:** Utilizes machine learning to analyze your reading preferences and suggest books from your chosen selection that match your tastes.
 - **Adaptive Learning:** The recommendation engine improves over time, offering increasingly accurate suggestions as it learns from your reading habits.
 - **Intuitive Interface:** Developed with Flutter, the app provides a seamless and enjoyable user experience.
 - **Custom Selection:** Allows users to choose the book selection from which recommendations are made.
 
-**Technologies Used:**
+## Getting Started
+
+To get started with the Flutter AI Image Generator, follow these steps:
+
+1. **Clone the Repository**: Clone the repository to your local machine using the following command:
+   ```
+   git clone https://github.com/3bdelazizRs/App-Recommendation-Books.git
+   ```
+
+2. **Set Up Flutter Environment**: Ensure that you have Flutter installed on your system. If not, refer to the official [Flutter documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
+
+3. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
+   ```
+   flutter pub get
+   ```
+
+4. **Run the Application**: Launch the application on your preferred device or emulator by executing the following command:
+   ```
+   flutter run
+   ```
+
+## Technologies Used:
 
 - **Flutter:** For building a cross-platform, intuitive, and responsive user interface.
 - **Python & Flask:** For implementing the machine learning algorithms and handling backend processes.
