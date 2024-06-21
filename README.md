@@ -8,7 +8,7 @@ App Recommendation Books is an innovative application developed using Flutter, P
 
 ## Key Features:
 
-- **Personalized Recommendations:** Utilizes machine learning to analyze your reading preferences and suggest books from your chosen selection that match your tastes.
+- **Personalized Recommendations:** Utilizes Collaborative Filtering in Python to analyze your reading preferences and suggest books from your chosen selection that match your tastes.
 - **Adaptive Learning:** The recommendation engine improves over time, offering increasingly accurate suggestions as it learns from your reading habits.
 - **Intuitive Interface:** Developed with Flutter, the app provides a seamless and enjoyable user experience.
 - **Custom Selection:** Allows users to choose the book selection from which recommendations are made.
