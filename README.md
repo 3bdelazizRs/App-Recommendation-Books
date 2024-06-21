@@ -37,7 +37,7 @@ To get started with the Flutter AI Image Generator, follow these steps:
 ## Technologies Used:
 
 - **Flutter:** For building a cross-platform, intuitive, and responsive user interface.
-- **Python & Flask:** For implementing the machine learning algorithms and handling backend processes.
+- **[Python & Flask:](https://github.com/3bdelazizRs/App-Recommendation-Books-algorithem)** For implementing the machine learning algorithms and handling backend processes.
 - **Laravel:** For managing the application’s backend and data operations.
 
 Feel free to explore the code, contribute, or provide feedback to help us improve the app!
