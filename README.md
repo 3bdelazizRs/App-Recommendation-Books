@@ -38,6 +38,6 @@ To get started with the Flutter AI Image Generator, follow these steps:
 
 - **Flutter:** For building a cross-platform, intuitive, and responsive user interface.
 - **[Python & Flask:](https://github.com/3bdelazizRs/App-Recommendation-Books-algorithem)** For implementing the machine learning algorithms and handling backend processes.
-- **Laravel:** For managing the application’s backend and data operations.
+- **[Laravel:](https://github.com/3bdelazizRs/App-Recommendation-Books-Laravel)** For managing the application’s backend and data operations.
 
 Feel free to explore the code, contribute, or provide feedback to help us improve the app!
