@@ -15,7 +15,7 @@ App Recommendation Books is an innovative application developed using Flutter, P
 
 ## Getting Started
 
-To get started with the Flutter AI Image Generator, follow these steps:
+To get started with the App Recommendation Books, follow these steps:
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
    ```
